@@ -6,3 +6,8 @@ pitch video
 https://www.loom.com/share/e29465112cc94ea1bb291912d9155d46?sid=bb9faac3-737e-4811-86c7-be5b02491089
 
 こんにちは、キアラの代表石井です。今回のビデオでは、我々がオープンソース化して取り組もうとしているタスク管理ツールの開発についてお話しします。リモートチームでの業務の漏れをなくし、プライオリティを正しくつけて効率的に結果を出すためのツールです。AIを活用し、リマインダーやタスクの管理をスマートに行うことが目標です。ぜひご意見をいただきながら、皆さんと一緒に開発していきたいと思っています。
+
+
+<img width="588" alt="Screenshot 2024-05-12 at 17 54 27" src="https://github.com/Kiara-Dev-Team/magic-reminder/assets/10541717/c8de046c-78cc-4d1b-a185-7d4053035b57">
+
+<img width="593" alt="Screenshot 2024-05-12 at 17 54 32" src="https://github.com/Kiara-Dev-Team/magic-reminder/assets/10541717/21162431-4ab4-4fe0-ad7b-020ce17d3299">
